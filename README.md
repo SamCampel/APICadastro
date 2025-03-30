@@ -1,8 +1,8 @@
-como rodar:
+Como rodar:
 
 back end:
-
-no terminal -> cd backend >npx prisma studio
+npm install cors, express
+no terminal -> cd backend >npx prisma studio (ao colocar o prisma studio, ira aparecer para instalação do prisma, só aceitar)
 terminal2 -> cd backend > nodemon index.js
 
 frontend: 
