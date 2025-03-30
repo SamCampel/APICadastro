@@ -1,3 +1,3 @@
-LIGAR:
+Para rodar:
 - npm run dev
 
